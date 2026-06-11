@@ -9,15 +9,34 @@ By following this document, users can quickly prepare a BeagleBone Black develop
 # Table of Contents
 - [Prerequisites](#prerequisites)
 - [Flashing Image in BBB](#Flashing-Image-in-BBB)
+- [Insert SD Card in BBB and connect BBB to PC](Insert-SD-Card-in-BBB-and-connect-BBB-to-PC)
 - [Network Setup](#Network-Setup)
 - [Make settings permanent](Make-settings-permanent)
 - [Dependency Installation](#Dependency-Installation)
 - [Header Installation](#Header-Installation)
 
-  # Prerequisites
-  Hardware Requirements :
+# Prerequisites
+Hardware Requirements :
   - BeagleBone Black (BBB).
   - MicroSD Card (8GB or higher recommended).
   - USB Cable.
   - Host PC/Laptop.
-  - Internet Connection
+  - Internet Connection.
+  - USB SD Card-reader.
+    
+Software Requirements :
+  - Ubuntu Host Machine or Ubuntu Virtual Machine.
+  - Balena Etcher.
+  - BBB Image File.
+  - Administrative (sudo) privileges.
+  
+# Flashing Image in BBB
+## Steps
+1. Download image from [drive link](https://drive.google.com/drive/folders/1OXFgz5Sl-nOoM_cIQU6NIXMJJJ__GY0C?usp=sharing).
+2. Download balenaEtcher [Application](https://etcher.balena.io/).
+3. Insert Micro-card in SD card-reader.
+4. Open BalenaEtcher and connect USB SD card-reader to Host device.
+5. Select the Image file.
+6. Select target (USB device).
+7. Flash.
+# Insert SD Card in BBB and connect BBB to PC
