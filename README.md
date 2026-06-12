@@ -1,4 +1,4 @@
-# Beaglebone-Black-Setup
+# Beaglebone-Black-Setup-Guide
 This repository contains the complete procedure for setting up a BeagleBone Black (BBB), including image flashing, network configuration, dependency installation, and kernel header installation.
 # Introduction
 This document provides a step-by-step guide for setting up the BeagleBone Black (BBB) development board. It covers the complete process of flashing the operating system image, configuring network connectivity through a host Ubuntu machine or virtual machine, enabling internet access on the BBB, and installing the required software dependencies.
