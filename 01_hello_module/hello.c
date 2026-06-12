@@ -29,7 +29,7 @@ MODULE_LICENSE("GPL");
 // add information about the module into module metadata
 MODULE_DESCRIPTION("Hello kernel module for DESD-Aug-24 @ Sunbeam");
 // add developer info about module into module metadata
-MODULE_AUTHOR("Nilesh Ghule <nilesh@sunbeaminfo.com>");
+MODULE_AUTHOR("Pranav Sangar>");
 
 // all above MODULE_ macros internally calls MODULE_INFO() macro that adds module info
 //  into modules metadata section ".modinfo".
