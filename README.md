@@ -41,7 +41,7 @@ Software Requirements :
 5. Select the Image file.
 6. Select target (USB device).
 7. Flash.
-## Insert SD Card in BBB and connect BBB to PC
+Insert SD Card in BBB and connect BBB to PC
 # Network Setup
 ## Enable IP forwarding on Linux (Ubuntu)
 Open Terminal on Linux and run following command.
