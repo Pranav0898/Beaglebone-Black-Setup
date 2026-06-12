@@ -7,6 +7,8 @@ The guide also includes instructions for configuring IP forwarding, Network Addr
 
 By following this document, users can quickly prepare a BeagleBone Black development environment suitable for application development, kernel programming, device driver development, and other embedded Linux projects.
 
+### Note : This guide has been tested using Ubuntu 22.04 LTS as the host operating system. The target hardware platform used is the BeagleBone Black (BBB)
+
 # Table of Contents
 - [Prerequisites](#prerequisites)
 - [Flashing Image in BBB](#Flashing-Image-in-BBB)
