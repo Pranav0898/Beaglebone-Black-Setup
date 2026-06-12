@@ -12,7 +12,6 @@ By following this document, users can quickly prepare a BeagleBone Black develop
 # Table of Contents
 - [Prerequisites](#prerequisites)
 - [Flashing Image in BBB](#Flashing-Image-in-BBB)
-- [Insert SD Card in BBB and connect BBB to PC](Insert-SD-Card-in-BBB-and-connect-BBB-to-PC)
 - [Network Setup](#Network-Setup)
 - [Make settings permanent](Make-settings-permanent)
 - [Dependency Installation](#Dependency-Installation)
