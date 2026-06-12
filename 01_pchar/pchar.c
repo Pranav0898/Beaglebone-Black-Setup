@@ -42,5 +42,5 @@ module_exit(pchar_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Simple Pseudo Char Device Driver");
-MODULE_AUTHOR("Nilesh Ghule <nilesh@sunbeaminfo.com>");
+MODULE_AUTHOR("Pranav Sangar");
 
